@@ -1,0 +1,16 @@
+ourbooks.add({
+    title: 'game of thrones 20',
+    price: 200
+})
+ourbooks.add({
+    title: 'game of thrones 21',
+    price: 210
+})
+ourbooks.add({
+    title: 'game of thrones 22',
+    price: 220
+})
+ourbooks.add({
+    title: 'game of thrones 23',
+    price: 230
+})
